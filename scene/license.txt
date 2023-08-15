@@ -1,0 +1,11 @@
+Model Information:
+* title:	LEGO bike
+* source:	https://sketchfab.com/3d-models/lego-bike-8dfac1837c534e0e9e82a33d6478f7f4
+* author:	burunduk (https://sketchfab.com/burunduk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LEGO bike" (https://sketchfab.com/3d-models/lego-bike-8dfac1837c534e0e9e82a33d6478f7f4) by burunduk (https://sketchfab.com/burunduk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
